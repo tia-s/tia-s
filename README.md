@@ -1,21 +1,15 @@
 <div align="center">
-  <h1>👩🏽‍💻 Tia Salmon</h1>
+  <h1>👩🏽‍💻 Hi, I'm Tia </h1>
   <p align="center">Computer Science Student </p>
   <p>🌟 Welcome to my GitHub profile! I'm interested in exploring exploring various domains within programming and technology. </p>
 </div>
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-63A69F?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-6A041D?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-DED051?style=flat&logo=linux&logoColor=black)
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C)](https://github.com/tiasalmon)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C)](https://www.linkedin.com/in/tia-salmon-864777222/)
-
+![Python](https://img.shields.io/badge/-Python-071A2C?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-071A2C?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-071A2C?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-071A2C?style=flat&logo=linux&logoColor=white)
 
 ## 📚 Learning
 
