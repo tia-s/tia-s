@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👩🏽‍💻 Hi, I'm Tia </h1>
-  <p align="center">Computer Science Student </p>
-  <p>🌟 Welcome to my GitHub profile! I'm interested in exploring exploring various domains within programming and technology. </p>
+  <p align="center">Data Analyst/Software Engineer </p>
+  <p>🌟 Welcome to my GitHub profile! I'm interested in exploring various domains within programming and technology. </p>
 </div>
 
 ## 🛠️ Technologies & Tools
