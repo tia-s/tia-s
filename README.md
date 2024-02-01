@@ -10,6 +10,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-071A2C?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-071A2C?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-071A2C?style=flat&logo=linux&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-071A2C?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-071A2C?style=flat&logo=javascript&logoColor=white)
 
 ## 📚 Learning
 
