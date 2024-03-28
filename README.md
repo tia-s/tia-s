@@ -13,14 +13,5 @@
 ![Java](https://img.shields.io/badge/-Java-071A2C?style=flat&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071A2C?style=flat&logo=javascript&logoColor=white)
 
-## 📚 Learning
-
-As a Computer Science student, I am on a journey of continuous learning and growth.
-
-I'm currently focusing on:
-
-- 💻 Software Engineering
-- 📊 Data Engineering
-- 🤖 Machine Learning
 
 Feel free to explore my repositories and reach out if you have any questions or want to collaborate on exciting projects! 🚀
